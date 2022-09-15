@@ -1,6 +1,7 @@
 Add the following variables (see example on img)
 
 execute:
+
 nano /etc/environment
 
 A) add the next line after the end of the PATH=...
